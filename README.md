@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Julius, an aspiring Machine Learning Engineer with a passion for machine learning and AI technology
+### I'm Julius, an aspiring Machine Learning Operations Engineer with a passion for machine learning and AI technology
 <!--
 **izanna-ju/izanna-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
